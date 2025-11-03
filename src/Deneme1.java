@@ -10,7 +10,7 @@ public class Deneme1 {
         if ("admin".equalsIgnoreCase(username) && "1234".equals(password)) {
             System.out.println("Giriş Başarılı!");
         } else {
-            System.out.println(" Giriş Başarısız!");
+            System.out.println(" Girişin Başarısız!");
 
         }
         scanner.close();
