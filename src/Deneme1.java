@@ -17,3 +17,11 @@ public class Deneme1 {
     }
 }
 
+
+
+
+
+
+
+
+
